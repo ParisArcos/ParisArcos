@@ -9,7 +9,7 @@
        
 
         
-(https://wallpaperaccess.com/full/19608.jpg)
+https://wallpaperaccess.com/full/19608.jpg
 
 
 ### Abaut me:
@@ -28,12 +28,12 @@
 ### Stats:
 
 <p align="center">
-[![ParisArcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParisArcos&show_icons=true&theme=dark)](https://github.com/ParisArcos/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=ParisArcos&show_icons=true&theme=dark)](https://github.com/ParisArcos/github-readme-stats)
 </p>
 
 </br>
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParisArcos&layout=compact&theme=dark)](https://github.com/ParisArcos/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=ParisArcos&layout=compact&theme=dark)](https://github.com/ParisArcos/github-readme-stats
 </p>
 
 ### Find me in:
