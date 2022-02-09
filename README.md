@@ -8,8 +8,8 @@
     👨‍💻 My main stack is MERN (MongoDB, Express, React, Node.js)
        
 
-        
-https://wallpaperaccess.com/full/19608.jpg
+        <img align="center" src="https://wallpaperaccess.com/full/19608.jpg" alt="head img" />
+
 
 
 ### Abaut me:
@@ -28,12 +28,14 @@ https://wallpaperaccess.com/full/19608.jpg
 ### Stats:
 
 <p align="center">
-https://github-readme-stats.vercel.app/api?username=ParisArcos&show_icons=true&theme=dark)](https://github.com/ParisArcos/github-readme-stats)
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParisArcos&show_icons=true&theme=dark" alt="stats-card" />
+
 </p>
 
 </br>
 <p align="center">
-https://github-readme-stats.vercel.app/api/top-langs/?username=ParisArcos&layout=compact&theme=dark)](https://github.com/ParisArcos/github-readme-stats
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParisArcos&layout=compact&theme=dark" alt="stats-card" />
+
 </p>
 
 ### Find me in:
