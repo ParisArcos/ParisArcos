@@ -10,8 +10,8 @@
 - <a href="https://www.linkedin.com/in/paris-arcos-martin-268708217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paris-arcos-martin-268708217/" height="30" width="40" /></a>
 
 
-### Abaut me:
- I am  from Las Palmas de Gran Canaria ,  Canary Islands ☀️, Spain.
+### About me:
+ I am from Las Palmas de Gran Canaria , Canary Islands ☀️, Spain.
 
  During my professional life I've played many roles, being IT my main occupation since 2008
  and more specifically programming since 2019.
