@@ -1,73 +1,33 @@
-<h1 align="center">Paris Arcos</h1>
-<p align="center"><strong>Senior Full-Stack AI Engineer · TypeScript / Node.js · Technical Leadership</strong></p>
-<p align="center">Building useful software. Making AI reliable. Helping teams deliver.</p>
-<p align="center"><a href="https://www.linkedin.com/in/paris-arcos-martin-268708217/">LinkedIn</a> · <a href="https://github.com/EconomiconFinOps/tfm-economicon">Featured project</a> · <a href="#how-i-work">Engineering approach</a></p>
+# Paris Arcos
 
----
+**AI Engineer & Technical Lead · Production AI agents, RAG and cloud delivery**
 
-### From SaaS engineering to applied AI
+I build AI assistants that use product context and tools, and lead software delivery from technical discovery through rollout. I'm interested in AI Engineer, Technical Lead and Forward Deployed Engineer roles, working remotely from the Canary Islands.
 
-I build backend services, full-stack products and LLM workflows, with professional software development experience since **2020**. My strongest stack is **TypeScript, Node.js and React**.
+[LinkedIn](https://www.linkedin.com/in/paris-arcos-martin-268708217/)
 
-At **Ludus**, I grew from Full-Stack Developer to **Lead Web Developer / Team Lead**: building SaaS APIs, mentoring a junior engineer and contributing to the migration of the platform to Azure. That experience shaped how I work today: own the problem, make the tradeoffs explicit and leave a system the next person can maintain.
+## Selected projects
 
-My work spans **applied AI engineering**: agents, document retrieval, tool integration and the evaluation needed to make them useful beyond a demo.
+### [Economicón — FinOps assistant](https://github.com/EconomiconFinOps/tfm-economicon)
 
-### Professional experience
+A collaborative project for querying Azure cloud costs and internal documents with citations. I led delivery of the RAG chat and designed structure-aware chunking, hybrid search with reciprocal rank fusion (RRF), tenant isolation, and privacy and spend controls with LiteLLM. I validated how the assistant responds, asks for clarification or abstains when evidence is incomplete.
 
-| Company | Role | Contributions |
-| :--- | :--- | :--- |
-| **isEazy** | Senior Full-Stack AI Engineer | AI workflows for educational content generation, including quizzes, flashcards, audio and video, within an EdTech product environment. |
-| **Athlera** | Lead Platform Architect | Platform architecture and technical direction for a system combining graph, vector and relational data with AI workflows. |
-| **Ludus** | Full-Stack Developer → Lead Web Developer / Team Lead | SaaS backend APIs, full-stack features, junior mentoring and migration work on Azure. |
+[Run locally](https://github.com/EconomiconFinOps/tfm-economicon#como-correrlo) · [28-case evaluation suite](https://github.com/EconomiconFinOps/tfm-economicon/blob/main/docs/validation/README.md) · [Evaluation dashboard and results](https://github.com/EconomiconFinOps/tfm-economicon/blob/main/docs/validation/evaluation-dashboard.md)
 
-### Selected work
+### [PARES — AI architecture for historical archives](https://github.com/ParisArcos/pares-architecture)
 
-| Project | What to look at |
-| :--- | :--- |
-| **[Economicon · FinOps Assistant](https://github.com/EconomiconFinOps/tfm-economicon)** | Collaborative master's capstone: an Azure cost advisory application with a conversational assistant. My focus includes conversation mechanics, tool integration, ingestion and retrieval, structured outputs and repeatable evaluation. **React · Python / FastAPI · asynchronous processing · vector search** |
-| **[GuiaTNF · RAG exploration](https://github.com/ParisArcos/GuiaTNF)** | Academic LLM project exploring document retrieval, chunking and embeddings, with a notebook-based workflow. **Python · LangChain · LangGraph · FAISS · Gradio** |
-| **[T9 Keyboard · API](https://github.com/ParisArcos/t9Keyboard_API)** / **[Client](https://github.com/ParisArcos/t9Keyboard_Client)** | An earlier full-stack project: recursive word combinations, suggested-word filtering and synonym lookup through external APIs. **Node.js · Express · React · Redux** |
+A reference design for turning 16th-century scans into searchable records with citations to individual folios. SQL retrieves all supported facts and their citations. Vector search adds related context. The design includes human review and rechecks access before serving a PDF.
 
-*My public repositories include learning projects and experiments. Much of my professional SaaS work lives in private company repositories.*
+### [Dialogflow — Roadside assistance voice assistant](https://github.com/ParisArcos/dialogflow)
 
-### Engineering toolkit
+A voice prototype for checking coverage and requesting a simulated tow truck. Dialogflow ES handles the conversation and FastAPI validates coverage and confirmation. Gemini answers separate policy questions using text extracted with Tesseract.
 
-Technologies used across professional work and collaborative or academic projects.
+## Professional experience
 
-| Area | Technologies & practices |
-| :--- | :--- |
-| **Languages & backend** | TypeScript, JavaScript, Python · Node.js, Express, NestJS, FastAPI · REST, GraphQL, Pydantic |
-| **Frontend & conversational UI** | React, TypeScript, Vite, Tailwind CSS, TanStack Query, Apollo Client, assistant-ui |
-| **LLMs & agent orchestration** | LangChain, LangGraph, tool calling, prompt engineering, structured outputs, context management · LiteLLM / OpenRouter |
-| **RAG & document pipelines** | Document extraction, deterministic chunking, tokenization, embeddings, retrieval evaluation · pgvector, FAISS, tiktoken, pdfplumber, python-docx |
-| **Databases & persistence** | PostgreSQL, CockroachDB, MySQL, SQL Server, MongoDB / Cosmos DB · SQLAlchemy, Sequelize, Mongoose |
-| **Messaging, jobs & storage** | RabbitMQ, Redis, BullMQ, MinIO / S3-compatible object storage |
-| **Cloud & delivery** | Azure, AWS, Docker / Compose, Kubernetes, Helm, Argo CD, Azure DevOps, GitHub Actions · Terraform reference architecture and local validation |
-| **Testing & observability** | pytest, Vitest, React Testing Library, integration tests, repeatable LLM evaluation, Prometheus metrics, structured logging |
-| **AI-assisted engineering** | Codex, Spec-Driven Development, OpenSpec, coordinated coding agents, scoped permissions, technical review and validation |
+- **Athlera.** Led a four-person team and built AI components and integrations for a Next.js product. The assistants used LangChain, LangGraph and the OpenAI API, with on-screen context, user data and tools.
+- **Ludus.** Led the three-person web team. Compared technical options with management, estimated costs and delivery timelines, and turned decisions into implementation plans. Unified access to four platforms and led the migration from AWS EC2 to Azure with automated deployments and rollbacks.
+- **isEazy.** Analysed a Next.js platform and Amazon Bedrock components. Designed prompts and specified workflows for generating training materials with quality checks and human review.
 
-### AI, cloud & DevOps foundations
+## How I deliver with agents
 
-**Master's programme in AI, Cloud Computing & DevOps — Pontia.** Coursework covers machine learning and deep learning, LLMs and Transformers, image generation, prompt engineering, vector databases, AI architectures, AWS and Azure, containers, DevOps, and AI legislation and ethics.
-
-Academic work includes **scikit-learn**, supervised and unsupervised learning, classification and regression, clustering, ensemble methods, neural networks and model evaluation. These foundations complement my software engineering experience and applied LLM projects.
-
-### How I work
-
-**Product before tickets.** Understand the workflow and the user, challenge unclear requirements, and turn the problem into a deliverable the team can assess.
-
-**Spec-Driven Development (SDD).** I turn requirements into written specifications, explicit contracts and acceptance criteria before implementation. Specs and architecture decisions provide shared context for both people and coding agents, and give reviews a concrete definition of done.
-
-**Structured agent teams for software delivery.** I use Codex with a coordinating PM agent and autonomous implementation agents that take responsibility for technical design and coding within a scoped task. Specialized subagents support investigation, review and validation. I define permissions, project context, handoffs and evidence requirements so parallel work can be integrated and checked against the specification.
-
-**Human ownership.** I set direction, resolve tradeoffs and review the result. Agents help write and assess code; I remain accountable for architecture, maintainability and delivery.
-
-**Evaluate the failure modes.** For the FinOps assistant, we use a repeatable 28-question battery. Correct identifiers, schema validity and retrieval quality matter as much as a fluent answer.
-
-**Keep the team moving.** Clear objectives, early escalation, practical mentoring and shared technical context are part of engineering.
-
----
-
-<p align="center"><strong>Software engineering · Applied AI · Architecture · Technical leadership</strong></p>
-
+I adapted a development harness that takes changes from OpenSpec and Trello through implementation, independent technical review and functional validation. I use MCP and role-specific skills to give agents the tools they need, keep context in the repository, Notion and Engram, and use GitHub checks and Tempo measurements to verify delivery and track time and token usage.
