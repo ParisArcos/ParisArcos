@@ -4,7 +4,7 @@
 
 I build AI assistants that use product context and tools, and lead software delivery from technical discovery through rollout. I'm interested in AI Engineer, Technical Lead and Forward Deployed Engineer roles, working remotely from the Canary Islands.
 
-[LinkedIn](https://www.linkedin.com/in/paris-arcos-martin-268708217/)
+[LinkedIn](https://www.linkedin.com/in/paris-arcos-martin/)
 
 ## Selected projects
 
